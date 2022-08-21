@@ -1,6 +1,11 @@
 body{
   height: 100%;
   width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  background-image: linear-gradient(to bottom right,#6d282b, rgb(50, 53, 138));
+  margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .header-dark {
     background:rgba(221, 1, 74, 0.541);
