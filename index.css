@@ -173,6 +173,7 @@
 
   /* Footer */
   .footer {
+    bottom: 0px;
     width: 100%;
     height: auto;
     background: #00121b;
